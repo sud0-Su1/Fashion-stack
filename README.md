@@ -11,10 +11,12 @@ A modern full-stack clothing e-commerce web application with user authentication
 
 ## Screenshots
 
-(Screenshots/1.png) 
-
-![Checkout Page](path/to/checkout_screenshot.png)  
-![Admin Dashboard](path/to/admin_dashboard_screenshot.png)
+![Screenshot](Screenshots/1.png)
+![Screenshot](Screenshots/2.png)
+![Screenshot](Screenshots/4.png)
+![Screenshot](Screenshots/5.png)
+![Screenshot](Screenshots/6.png)
+![Screenshot](Screenshots/7.png)
 
 ## Technologies Used
 
