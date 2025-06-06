@@ -11,7 +11,7 @@ A modern full-stack clothing e-commerce web application with user authentication
 
 ## Screenshots
 
-![Homepage](path/to/homepage_screenshot.png)  
+!(/scree
 ![Login Page](path/to/login_screenshot.png)  
 ![Checkout Page](path/to/checkout_screenshot.png)  
 ![Admin Dashboard](path/to/admin_dashboard_screenshot.png)
